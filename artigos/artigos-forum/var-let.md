@@ -1,3 +1,7 @@
+<h1> Variáveis e Constantes em Swift: Entendendo Fundamentos Essenciais </h1>
+Compartilhado por <a href="https://web.dio.me/users/adaltopicotti_jr" target="_blank"> Adalto Junior </a>
+<br>
+<br>
 
 Na linguagem de programação Swift, a manipulação de dados é fundamental para criar aplicativos eficazes e interativos. Para isso, Swift oferece um conceito importante: variáveis e constantes. Vamos mergulhar mais fundo nesse tópico e entender como esses elementos são usados para armazenar informações em seus programas.
 
