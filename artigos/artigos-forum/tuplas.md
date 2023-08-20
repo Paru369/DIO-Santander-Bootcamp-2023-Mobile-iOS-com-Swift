@@ -1,5 +1,5 @@
 <h1> Tuplas </h1>
-Compartilhado por <a href="https://web.dio.me/users/diogopiresmkt?tab=skills" target="_blank"> Paulo Pinheiro </a>
+Compartilhado por <a href="https://web.dio.me/users/paruvitu" target="_blank"> Paulo Pinheiro </a>
 <br>
 <br><br>
 Estou estudando Tuplas na faculdade, mas lá é com python, então resolvi fazer um resumo em swift
