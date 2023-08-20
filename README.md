@@ -15,7 +15,7 @@ Repository developed for didactic purposes, with the availability of Bootcamp ac
 
 ## ✅ Features / Solves
 [x] Contribuindo em um Projeto Open Source no GitHub
-
+[x] Criando um Projeto no Playground Utilizando XCode
 
 
 ## 📱 Technologies and knowledges (loading...)
