@@ -1,7 +1,7 @@
 
 <h1>
 Funções e Closures em Swift</h1>
-
+Compartilhado por <a href="https://web.dio.me/users/paruvitu" target="_blank"> Paulo Pinheiro </a>
 
 
 <h2>
