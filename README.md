@@ -11,7 +11,7 @@
 Repository developed for didactic purposes, with the availability of Bootcamp activities nodes provided by Santander and  [Digital Innovation One](https://www.dio.me/).
 
 # 
-## 📝 Classes
+## 📝 Conteúdo das Aulas
 [x] [A linguagem de programação Swift](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/a-linguagem-de-programacao-swift) <br>
 [x] [Fundamentos da linguagem de programacao Swift](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/fundamentos-Linguagem-Programacao-Swift) <br>
 [x] [Topicos avançados da linguagem de programação Swift](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/topicos-Avancados-Linguagem-Programacao-Swift) <br>
