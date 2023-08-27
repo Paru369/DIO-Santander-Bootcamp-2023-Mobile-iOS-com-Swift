@@ -23,8 +23,10 @@ Repository developed for didactic purposes, with the availability of Bootcamp ac
 [X] TODO [Projeto SwiftUI MVVP + Modules ](https://github.com/Paru369/) <br>
 
 ## ✅ Features / Solves
-[x] Contribuindo em um Projeto Open Source no GitHub <br>
-[x] Criando um Projeto no Playground Utilizando XCode
+[x] Desafio: [Contribuindo em um Projeto Open Source no GitHub](https://github.com/Paru369/dio-lab-open-source/commit/0bb2b9918e7ee313fac72f66f9e5bc3b565fe587) <br>
+[x] Desafio: [Criando um Projeto no Playground Utilizando XCode](https://github.com/Paru369/desafio-dio-playground)
+[X] Desafio: [Dominando a Linguagem de Programação Swift](https://github.com/Paru369/Desafio-POO-POP-Swift-DIO-Santander)
+[ ] TODO Desafio: [Desenvolva Seu Portfólio Mobile Criando Apps iOS] ()
 
 
 ## 📱 Technologies and knowledges (loading...)
