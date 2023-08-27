@@ -16,9 +16,11 @@ Repository developed for didactic purposes, with the availability of Bootcamp ac
 [x] [Fundamentos da linguagem de programacao Swift](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/fundamentos-Linguagem-Programacao-Swift) <br>
 [x] [Topicos avançados da linguagem de programação Swift](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/topicos-Avancados-Linguagem-Programacao-Swift) <br>
 [x] [Programção Orientada a Objetos, Herança e Polimorfismo](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/POO) <br>
-[X] [Programção Orientada a Protocolos e Extenções](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/POP) 
-
-
+[X] [Programção Orientada a Protocolos e Extenções](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/POP) <br>
+[X] TODO [Desafios de codigo INICIANTES ](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/) <br>
+[X] TODO [Desafios de codigo INTERMEDIÁRIO ](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/) <br>
+[X] [Projeto UIKit MarketCoins VIP ](https://github.com/Paru369/Criptomoedas-VIP) <br>
+[X] TODO [Projeto SwiftUI MVVP + Modules ](https://github.com/Paru369/) <br>
 
 ## ✅ Features / Solves
 [x] Contribuindo em um Projeto Open Source no GitHub <br>
