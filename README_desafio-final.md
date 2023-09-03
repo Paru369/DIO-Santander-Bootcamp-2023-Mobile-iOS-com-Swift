@@ -19,18 +19,19 @@ Por fim, no terceiro projeto vamos explorar o conceito de modularização, onde 
 
 
 ## ✅ Entregas
-[x] TODO APP 01: API + 3 telas -> UIkit, Storyboard, XIB e ViewCod e Cocoapods <br>
+[ ] TODO APP 01: API + 3 telas -> UIkit, Storyboard, XIB e ViewCod e Cocoapods <br>
 
  [Contribuindo em um Projeto Open Source no GitHub](https://github.com/Paru369/) <br>
  
-[x] TODO APP 02: API + 2 telas ->  SwiftUI, Combine e um pacote do Swift Package Manager(SPM); <br>
+[ ] TODO APP 02: API + 2 telas ->  SwiftUI, Combine e um pacote do Swift Package Manager(SPM); <br>
 
  [Criando um Projeto no Playground Utilizando XCode](https://github.com/Paru369/) <br>
  
-[X] TODO APP 03: Modularização, UIkit ou SwiftUI e Cocoapods pro modulo
+[ ] TODO APP 03: Modularização, UIkit ou SwiftUI e Cocoapods pro modulo <br>
 
 [Dominando a Linguagem de Programação Swift](https://github.com/Paru369/) <br>
 
+[ ] App Extra: App de acoes usando Swift UI e Charts
 
 
 ## 📱 Technologies and knowledges (loading...)
