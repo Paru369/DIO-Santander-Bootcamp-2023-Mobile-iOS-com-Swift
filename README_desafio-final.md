@@ -8,13 +8,28 @@
 Repository developed for didactic purposes, with the availability of Bootcamp activities nodes provided by Santander and  [Digital Innovation One](https://www.dio.me/).
 
 
-## 📝 O Desafio:
+## 📝 O Desafio: <br>
+
+O primeiro consiste em utilizar o Swift como linguagem de programação, UIkit, Storyboard, XIB e ViewCode, tudo isso utilizando Cocoapods para gerenciar ao menos uma depêndencia e possuir no mínimo três telas;
+
+No segundo projeto, deverá utilizar SwiftUI, Combine e uma depêndencia gerenciada pelo Swift Package Manager(SPM);
+
+
+Por fim, no terceiro projeto vamos explorar o conceito de modularização, onde voce poderá optar por utilizar o UIkit ou SwiftUI e utilizar o Cocoapods para a criação do módulo, sendo necessário ter no mínimo um módulo bem simples e um App para usar esse módulo
 
 
 ## ✅ Entregas
-[x] TODO APP 01: [Contribuindo em um Projeto Open Source no GitHub](https://github.com/Paru369/) <br>
-[x] TODO APP 02: [Criando um Projeto no Playground Utilizando XCode](https://github.com/Paru369/) <br>
-[X] TODO APP 03: [Dominando a Linguagem de Programação Swift](https://github.com/Paru369/) <br>
+[x] TODO APP 01: 3 telas -> UIkit, Storyboard, XIB e ViewCod e Cocoapods <br>
+
+ [Contribuindo em um Projeto Open Source no GitHub](https://github.com/Paru369/) <br>
+ 
+[x] TODO APP 02: 2 telas ->  SwiftUI, Combine e um pacote do Swift Package Manager(SPM); <br>
+
+ [Criando um Projeto no Playground Utilizando XCode](https://github.com/Paru369/) <br>
+ 
+[X] TODO APP 03: Modularização, UIkit ou SwiftUI e Cocoapods pro modulo
+
+[Dominando a Linguagem de Programação Swift](https://github.com/Paru369/) <br>
 
 
 
