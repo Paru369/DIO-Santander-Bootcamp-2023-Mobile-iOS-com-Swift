@@ -17,10 +17,8 @@ Repository developed for didactic purposes, with the availability of Bootcamp ac
 [x] [Topicos avançados da linguagem de programação Swift](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/topicos-Avancados-Linguagem-Programacao-Swift) <br>
 [x] [Programção Orientada a Objetos, Herança e Polimorfismo](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/POO) <br>
 [X] [Programção Orientada a Protocolos e Extenções](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/classes-content/POP) <br>
-[X] TODO [Desafios de codigo INICIANTES ](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/) <br>
-[X] TODO [Desafios de codigo INTERMEDIÁRIO ](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/) <br>
 [X] [Projeto UIKit MarketCoins VIP ](https://github.com/Paru369/Criptomoedas-VIP) <br>
-[X] TODO [Projeto SwiftUI MVVP + Modules ](https://github.com/Paru369/APP-Cambio-Moedas-MVVM) <br>
+[X] [Projeto SwiftUI MVVP + Modules ](https://github.com/Paru369/APP-Cambio-Moedas-MVVM) <br>
 
 
 ## ✅ Features / Solves
