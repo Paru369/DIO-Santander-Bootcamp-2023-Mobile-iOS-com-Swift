@@ -23,9 +23,9 @@ Por fim, no terceiro projeto vamos explorar o conceito de modularização, onde 
 
  [Contribuindo em um Projeto Open Source no GitHub](https://github.com/Paru369/) <br>
  
-[ ] TODO APP 02: API + 2 telas ->  SwiftUI, Combine e um pacote do Swift Package Manager(SPM); <br>
+[X] TODO APP 02: API + 2 telas ->  SwiftUI, Combine e um pacote do Swift Package Manager(SPM); <br>
 
- [Criando um Projeto no Playground Utilizando XCode](https://github.com/Paru369/) <br>
+ [App iNews to Learn English](https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander) <br>
  
 [ ] TODO APP 03: Modularização, UIkit ou SwiftUI e Cocoapods pro modulo <br>
 
