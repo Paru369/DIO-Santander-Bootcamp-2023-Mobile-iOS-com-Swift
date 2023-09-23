@@ -19,7 +19,7 @@ Por fim, no terceiro projeto vamos explorar o conceito de modularização, onde 
 
 
 ## ✅ Entregas
-[ ] TODO APP 01: API + 3 telas -> UIkit, Storyboard, XIB e ViewCod e Cocoapods <br>
+[X]APP 01: API + 3 telas -> UIkit, Storyboard, XIB e ViewCod e Cocoapods <br>
 
  [App Youtube Player](https://github.com/Paru369/App-UIKit-StoryBoard-XIB-ViewCodeDesafio_FInal_01-DIO-Santander) <br>
  
@@ -27,9 +27,10 @@ Por fim, no terceiro projeto vamos explorar o conceito de modularização, onde 
 
  [App iNews to Learn English](https://github.com/Paru369/App-SwiftUI-Combine-Desafio_Final_02-DIO-Santander) <br>
  
-[ ] TODO APP 03: Modularização, UIkit ou SwiftUI e Cocoapods pro modulo <br>
+[X]APP 03: Modularização, UIkit ou SwiftUI e Cocoapods pro modulo <br>
 
-[APP]([https://github.com/Paru369/](https://github.com/Paru369/Desafio_Final_03-App-Module-DIO-Santander) <br>
+[APP consumindo API com modulo Network](https://github.com/Paru369/App-ModuleCocoaPods-Desafio_Final_03-DIO-Santander) <br>
+
 
 [ ] App Extra: App de acoes usando Swift UI e Charts
 
