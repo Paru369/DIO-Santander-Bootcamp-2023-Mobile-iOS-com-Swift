@@ -30,9 +30,9 @@ Por fim, no terceiro projeto vamos explorar o conceito de modularização, onde 
 [X]APP 03: Modularização, UIkit ou SwiftUI e Cocoapods pro modulo <br>
 
 [APP consumindo API com modulo Network](https://github.com/Paru369/App-ModuleCocoaPods-Desafio_Final_03-DIO-Santander) <br>
+[Modulo Network](https://github.com/Paru369/Modularizacao-Desafio_Final_03-DIO-Santander)
 
 
-[ ] App Extra: App de acoes usando Swift UI e Charts
 
 
 ## 📱 Technologies and knowledges (loading...)
