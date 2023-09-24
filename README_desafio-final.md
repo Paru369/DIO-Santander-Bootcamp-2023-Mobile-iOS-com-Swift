@@ -35,29 +35,18 @@ Por fim, no terceiro projeto vamos explorar o conceito de modularização, onde 
 
 
 
-## 📱 Technologies and knowledges (loading...)
-- SwiftUI
-- MapKit
-- Model Data
-- GeometryReader
+## 📱 Technologies and knowledges 
+- UIKit
+- Swift UI
+- Images
 - Animantions
-- UI ViewController
-
-
-## 📲 Images
-
-In progress...
+- API
+- Combine
+- Modules
   
 ## ☑️ Requirements
 
 - [XCode](https://developer.apple.com/xcode/)
-
-
-## ⚙️ How to RUN
-
-- Download this repository
-- Open the Xcode and open the folder with the project
-- Press command+R to buiding the project and open the simulator
 
 
 ## 📝 Author notes
