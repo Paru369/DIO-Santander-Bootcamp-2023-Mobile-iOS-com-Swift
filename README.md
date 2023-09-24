@@ -25,7 +25,7 @@ Repository developed for didactic purposes, with the availability of Bootcamp ac
 [x] Desafio: [Contribuindo em um Projeto Open Source no GitHub](https://github.com/Paru369/dio-lab-open-source/commit/0bb2b9918e7ee313fac72f66f9e5bc3b565fe587) <br>
 [x] Desafio: [Criando um Projeto no Playground Utilizando XCode](https://github.com/Paru369/desafio-dio-playground) <br>
 [X] Desafio: [Dominando a Linguagem de Programação Swift](https://github.com/Paru369/Desafio-POO-POP-Swift-DIO-Santander) <br>
-[ ] TODO Desafio: [Desenvolva Seu Portfólio Mobile Criando Apps iOS](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/blob/main/README_desafio-final.md) <br>
+[X] Desafio: [Desenvolva Seu Portfólio Mobile Criando Apps iOS](https://github.com/Paru369/DIO-Santander-Bootcamp-2023-Mobile-iOS-com-Swift/blob/main/README_desafio-final.md) <br>
 
 
 ## 📱 Technologies and knowledges (loading...)
